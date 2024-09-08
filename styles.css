@@ -1,0 +1,16 @@
+/* styles.css */
+
+/* Customize the navbar background color */
+.navbar-dark.bg-dark {
+    background-color: #343a40 !important;
+}
+
+/* Customize the jumbotron background color */
+.jumbotron {
+    background-color: #007bff;
+}
+
+/* Customize the footer background color */
+footer {
+    background-color: #343a40;
+}
